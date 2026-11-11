@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {"name": "Git", "description": "使用版本控制記錄修改，並將程式碼上傳 GitHub。"},
+    {"name": "HTML5", "description": "運用語意化標籤建立網頁內容與結構。"},
+    {"name": "CSS", "description": "設計色彩、排版與響應式版面。"},
+    {"name": "JSON", "description": "以鍵值與陣列組織網頁所需資料。"},
+    {"name": "Ajax", "description": "不重新整理頁面也能向伺服器取得資料。"},
+    {"name": "jQuery", "description": "簡化事件處理、DOM 操作與 Ajax 請求。"}
+  ]
+}
